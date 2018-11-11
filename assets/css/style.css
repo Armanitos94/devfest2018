@@ -183,3 +183,13 @@ li {
   font-size: 16px;
   line-height: 1.7em;
 }
+
+.caption > h4 {
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+
+.caption > p {
+    font-size: 14px;
+    line-height: 1.42857143;
+}
